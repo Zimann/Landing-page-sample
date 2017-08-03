@@ -386,6 +386,7 @@ top-divider {
 .email-input-button {
     margin-top: 54px;
     float: left;
+    font-size: 15px;
 }
 .social-media-paragraph {
     font-family: 'Source Sans Pro', sans-serif;
