@@ -411,6 +411,7 @@ top-divider {
 .g-plus-logo,
 .twitter-logo {
     padding-right: 18px;
+    cursor: pointer;
 }
 .fb-logo {
     padding-left: 30px;
